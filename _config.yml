@@ -1,10 +1,10 @@
 ###########
 # site.title
 
-title: jekyllBear
-description: a minimal, text focused blog theme
+title: Jim Fitzsimmons
+description: Hope you like toddlers
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
-url: "https://knhash.in/jekyllBear" # the base hostname & protocol for your site
+url: "jims.one" # the base hostname & protocol for your site
 # host: 0.0.0.0
 
 
@@ -63,5 +63,3 @@ links:
   
 
 # Add links for more focus here
-special_links:
-  "Search": https://duckduckgo.com
