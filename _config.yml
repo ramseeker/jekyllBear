@@ -2,7 +2,7 @@
 # site.title
 
 title: Jim Fitzsimmons
-description: Hope you like toddlers
+description: One Kid. One Dog. Lots of stories to tell.
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
 url: "jims.one" # the base hostname & protocol for your site
 # host: 0.0.0.0
@@ -45,7 +45,7 @@ defaults:
       layout: tagged
 
 # baseurl: ""
-permalink: /blog/:slug
+permalink: /:slug
 timezone: America/New_York
 future: false
 
@@ -55,11 +55,10 @@ exclude:
 
 exclude: [vendor]
 
-Blog: /blog
 
 # Add general links to site pages here
 links:
-  Resume: /assets/resume.pdf
+  Hire Me: /assets/resume.pdf
   
 
 # Add links for more focus here
